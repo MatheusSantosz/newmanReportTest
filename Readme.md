@@ -44,11 +44,20 @@ newman run APISemComplicacao.postman_collection.json -e CepMatheus.postman_envir
 newman run APISemComplicacao.postman_collection.json -e CepMatheus.postman_environment.json --reporters=cli,htmlextra
 ```
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> homolog
 ### Developed
 
 - [x] Test Api
 - [x] Newman ReportHtml
 
 <h4 align="center"> 
+<<<<<<< HEAD
 	 Status 🚀 Finalizado 
+=======
+	 Status 🚀🚀 Finalizado 
+>>>>>>> homolog
 </h4>
